@@ -359,6 +359,7 @@ color: #2e2f42;
 }
 .portfolio-list {
   width: calc((100% - 48px) / 3);
+  
 }
 
 .portfolio-list:hover .portfolio-cover-text{
